@@ -10,3 +10,8 @@ if (detroitGC = true) {
     console.log("My name is " + nameFirstLast + " and I am a student at Grand Circus in Grand Rapids, Michigan. I am currently " + age + " years old and my birthday is on " + birthday + ".");
 }
 
+for (i = 0; i < lifeEvents.length; i++) {
+    console.log(lifeEvents[i]);
+}
+
+let counter = 0;
